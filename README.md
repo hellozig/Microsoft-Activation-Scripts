@@ -1,3 +1,14 @@
+lmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+slmgr /skms kms.03k.org
+
+slmgr /ato
+
+
+
+cmd管理模式依次输入 ，win10专业版 2023.04.23测试有效
+
+
 ## Microsoft  Activation  Scripts (MAS):
 
 A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
